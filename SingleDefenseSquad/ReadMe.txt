@@ -1,0 +1,1 @@
+﻿Changes the chosen defense mission to use 1 squad of 10 instead of 2x5
